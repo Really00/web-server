@@ -1,0 +1,377 @@
+
+> vue-admin@1.0.0 dev /home/hzl/projects/tumor3/web-server
+> node build/dev-server.js
+
+[HPM] Proxy created: /account  ->  http://202.38.81.87:3001
+[HPM] Proxy rewrite rule created: "^/account" ~> "/individual-center/v1/account"
+[HPM] Proxy created: /object  ->  http://202.38.81.87:3002
+[HPM] Proxy rewrite rule created: "^/object" ~> "/individual-center/v1/object"
+> Starting dev server...
+{ parser: "babylon" } is deprecated; we now treat it as { parser: "babel" }.
+Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+ DONE  Compiled successfully in 16872ms2:50:27 PM
+
+> Listening at http://localhost:8081
+
+(node:17379) UnhandledPromiseRejectionWarning: Error: Exited with code 3
+    at ChildProcess.<anonymous> (/home/hzl/projects/tumor3/web-server/node_modules/opn/index.js:85:13)
+    at Object.onceWrapper (events.js:417:26)
+    at ChildProcess.emit (events.js:310:20)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Socket.<anonymous> (internal/child_process.js:443:11)
+    at Socket.emit (events.js:310:20)
+    at Pipe.<anonymous> (net.js:672:12)
+(node:17379) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:17379) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+
+> vue-admin@1.0.0 dev /home/hzl/projects/tumor3/web-server
+> node build/dev-server.js
+
+[HPM] Proxy created: /account  ->  http://202.38.81.87:3001
+[HPM] Proxy rewrite rule created: "^/account" ~> "/individual-center/v1/account"
+[HPM] Proxy created: /object  ->  http://202.38.81.87:3002
+[HPM] Proxy rewrite rule created: "^/object" ~> "/individual-center/v1/object"
+> Starting dev server...
+{ parser: "babylon" } is deprecated; we now treat it as { parser: "babel" }.
+Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+ DONE  Compiled successfully in 15358ms7:12:21 PM
+
+> Listening at http://localhost:8081
+
+(node:6343) UnhandledPromiseRejectionWarning: Error: Exited with code 3
+    at ChildProcess.<anonymous> (/home/hzl/projects/tumor3/web-server/node_modules/opn/index.js:85:13)
+    at Object.onceWrapper (events.js:417:26)
+    at ChildProcess.emit (events.js:310:20)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Socket.<anonymous> (internal/child_process.js:443:11)
+    at Socket.emit (events.js:310:20)
+    at Pipe.<anonymous> (net.js:672:12)
+(node:6343) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:6343) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+
+> vue-admin@1.0.0 dev /home/hzl/projects/tumor3/web-server
+> node build/dev-server.js
+
+[HPM] Proxy created: /account  ->  http://202.38.81.87:3001
+[HPM] Proxy rewrite rule created: "^/account" ~> "/individual-center/v1/account"
+[HPM] Proxy created: /object  ->  http://202.38.81.87:3002
+[HPM] Proxy rewrite rule created: "^/object" ~> "/individual-center/v1/object"
+> Starting dev server...
+{ parser: "babylon" } is deprecated; we now treat it as { parser: "babel" }.
+Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+ DONE  Compiled successfully in 20118ms8:02:14 PM
+
+> Listening at http://localhost:8081
+
+(node:573) UnhandledPromiseRejectionWarning: Error: Exited with code 3
+    at ChildProcess.<anonymous> (/home/hzl/projects/tumor3/web-server/node_modules/opn/index.js:85:13)
+    at Object.onceWrapper (events.js:417:26)
+    at ChildProcess.emit (events.js:310:20)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Socket.<anonymous> (internal/child_process.js:443:11)
+    at Socket.emit (events.js:310:20)
+    at Pipe.<anonymous> (net.js:672:12)
+(node:573) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:573) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+
+> vue-admin@1.0.0 dev /home/hzl/projects/tumor3/web-server
+> node build/dev-server.js
+
+[HPM] Proxy created: /account  ->  http://202.38.81.87:3001
+[HPM] Proxy rewrite rule created: "^/account" ~> "/individual-center/v1/account"
+[HPM] Proxy created: /object  ->  http://202.38.81.87:3002
+[HPM] Proxy rewrite rule created: "^/object" ~> "/individual-center/v1/object"
+> Starting dev server...
+{ parser: "babylon" } is deprecated; we now treat it as { parser: "babel" }.
+Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+ DONE  Compiled successfully in 10302ms5:01:56 PM
+
+> Listening at http://localhost:8080
+
+(node:16805) UnhandledPromiseRejectionWarning: Error: Exited with code 3
+    at ChildProcess.<anonymous> (/home/hzl/projects/tumor3/web-server/node_modules/opn/index.js:85:13)
+    at Object.onceWrapper (events.js:417:26)
+    at ChildProcess.emit (events.js:310:20)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Socket.<anonymous> (internal/child_process.js:443:11)
+    at Socket.emit (events.js:310:20)
+    at Pipe.<anonymous> (net.js:672:12)
+(node:16805) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:16805) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+
+> vue-admin@1.0.0 dev /home/hzl/projects/tumor3/web-server
+> node build/dev-server.js
+
+[HPM] Proxy created: /account  ->  http://202.38.81.87:3001
+[HPM] Proxy rewrite rule created: "^/account" ~> "/individual-center/v1/account"
+[HPM] Proxy created: /object  ->  http://202.38.81.87:3002
+[HPM] Proxy rewrite rule created: "^/object" ~> "/individual-center/v1/object"
+> Starting dev server...
+{ parser: "babylon" } is deprecated; we now treat it as { parser: "babel" }.
+Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+ DONE  Compiled successfully in 10609ms7:59:50 PM
+
+> Listening at http://localhost:8081
+
+(node:8922) UnhandledPromiseRejectionWarning: Error: Exited with code 3
+    at ChildProcess.<anonymous> (/home/hzl/projects/tumor3/web-server/node_modules/opn/index.js:85:13)
+    at Object.onceWrapper (events.js:417:26)
+    at ChildProcess.emit (events.js:310:20)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Socket.<anonymous> (internal/child_process.js:443:11)
+    at Socket.emit (events.js:310:20)
+    at Pipe.<anonymous> (net.js:672:12)
+(node:8922) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:8922) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+
+> vue-admin@1.0.0 dev /home/hzl/projects/tumor3/web-server
+> node build/dev-server.js
+
+[HPM] Proxy created: /account  ->  http://202.38.81.87:3001
+[HPM] Proxy rewrite rule created: "^/account" ~> "/individual-center/v1/account"
+[HPM] Proxy created: /object  ->  http://202.38.81.87:3002
+[HPM] Proxy rewrite rule created: "^/object" ~> "/individual-center/v1/object"
+> Starting dev server...
+{ parser: "babylon" } is deprecated; we now treat it as { parser: "babel" }.
+Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+ DONE  Compiled successfully in 12894ms4:23:19 PM
+
+> Listening at http://localhost:8081
+
+(node:15627) UnhandledPromiseRejectionWarning: Error: Exited with code 3
+    at ChildProcess.<anonymous> (/home/hzl/projects/tumor3/web-server/node_modules/opn/index.js:85:13)
+    at Object.onceWrapper (events.js:417:26)
+    at ChildProcess.emit (events.js:310:20)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Socket.<anonymous> (internal/child_process.js:443:11)
+    at Socket.emit (events.js:310:20)
+    at Pipe.<anonymous> (net.js:672:12)
+(node:15627) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:15627) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[HPM] Error occurred while trying to proxy request /individual-center/v1/object/model from 202.38.81.87:8082 to http://202.38.81.87:3002 (ECONNRESET) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+ WAIT  Compiling...12:36:20 PM
+
+ DONE  Compiled successfully in 1101ms12:36:21 PM
+
+Terminated
+npm ERR! code ELIFECYCLE
+npm ERR! errno 143
+npm ERR! vue-admin@1.0.0 dev: `node build/dev-server.js`
+npm ERR! Exit status 143
+npm ERR! 
+npm ERR! Failed at the vue-admin@1.0.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/hzl/.npm/_logs/2020-12-15T04_36_25_883Z-debug.log
+
+> vue-admin@1.0.0 dev /home/hzl/projects/tumor3/web-server
+> node build/dev-server.js
+
+[HPM] Proxy created: /account  ->  http://202.38.81.87:3001
+[HPM] Proxy rewrite rule created: "^/account" ~> "/individual-center/v1/account"
+[HPM] Proxy created: /object  ->  http://202.38.81.87:3002
+[HPM] Proxy rewrite rule created: "^/object" ~> "/individual-center/v1/object"
+> Starting dev server...
+{ parser: "babylon" } is deprecated; we now treat it as { parser: "babel" }.
+Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+ DONE  Compiled successfully in 9705ms12:37:44 PM
+
+> Listening at http://localhost:8081
+
+(node:835) UnhandledPromiseRejectionWarning: Error: Exited with code 3
+    at ChildProcess.<anonymous> (/home/hzl/projects/tumor3/web-server/node_modules/opn/index.js:85:13)
+    at Object.onceWrapper (events.js:417:26)
+    at ChildProcess.emit (events.js:310:20)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Socket.<anonymous> (internal/child_process.js:443:11)
+    at Socket.emit (events.js:310:20)
+    at Pipe.<anonymous> (net.js:672:12)
+(node:835) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:835) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+
+> vue-admin@1.0.0 dev /home/hzl/projects/tumor3/web-server
+> node build/dev-server.js
+
+[HPM] Proxy created: /account  ->  http://202.38.81.87:3001
+[HPM] Proxy rewrite rule created: "^/account" ~> "/individual-center/v1/account"
+[HPM] Proxy created: /object  ->  http://202.38.81.87:3002
+[HPM] Proxy rewrite rule created: "^/object" ~> "/individual-center/v1/object"
+> Starting dev server...
+{ parser: "babylon" } is deprecated; we now treat it as { parser: "babel" }.
+Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+ DONE  Compiled successfully in 9952ms9:08:49 PM
+
+> Listening at http://localhost:8081
+
+(node:29159) UnhandledPromiseRejectionWarning: Error: Exited with code 3
+    at ChildProcess.<anonymous> (/home/hzl/projects/tumor3/web-server/node_modules/opn/index.js:85:13)
+    at Object.onceWrapper (events.js:417:26)
+    at ChildProcess.emit (events.js:310:20)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Socket.<anonymous> (internal/child_process.js:443:11)
+    at Socket.emit (events.js:310:20)
+    at Pipe.<anonymous> (net.js:672:12)
+(node:29159) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:29159) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+Terminated
+npm ERR! code ELIFECYCLE
+npm ERR! errno 143
+npm ERR! vue-admin@1.0.0 dev: `node build/dev-server.js`
+npm ERR! Exit status 143
+npm ERR! 
+npm ERR! Failed at the vue-admin@1.0.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/hzl/.npm/_logs/2020-12-23T08_00_44_390Z-debug.log
+
+> vue-admin@1.0.0 dev /home/hzl/projects/tumor3/web-server
+> node build/dev-server.js
+
+[HPM] Proxy created: /account  ->  http://202.38.81.87:3001
+[HPM] Proxy rewrite rule created: "^/account" ~> "/individual-center/v1/account"
+[HPM] Proxy created: /object  ->  http://202.38.81.87:3002
+[HPM] Proxy rewrite rule created: "^/object" ~> "/individual-center/v1/object"
+> Starting dev server...
+{ parser: "babylon" } is deprecated; we now treat it as { parser: "babel" }.
+Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+ DONE  Compiled successfully in 19922ms4:01:44 PM
+
+> Listening at http://localhost:8081
+
+(node:4344) UnhandledPromiseRejectionWarning: Error: Exited with code 3
+    at ChildProcess.<anonymous> (/home/hzl/projects/tumor3/web-server/node_modules/opn/index.js:85:13)
+    at Object.onceWrapper (events.js:417:26)
+    at ChildProcess.emit (events.js:310:20)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Socket.<anonymous> (internal/child_process.js:443:11)
+    at Socket.emit (events.js:310:20)
+    at Pipe.<anonymous> (net.js:672:12)
+(node:4344) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:4344) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+
+> vue-admin@1.0.0 dev /home/hzl/projects/tumor3/web-server
+> node build/dev-server.js
+
+[HPM] Proxy created: /account  ->  http://202.38.81.87:3001
+[HPM] Proxy rewrite rule created: "^/account" ~> "/individual-center/v1/account"
+[HPM] Proxy created: /object  ->  http://202.38.81.87:3002
+[HPM] Proxy rewrite rule created: "^/object" ~> "/individual-center/v1/object"
+> Starting dev server...
+{ parser: "babylon" } is deprecated; we now treat it as { parser: "babel" }.
+Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+ DONE  Compiled successfully in 11684ms7:11:28 PM
+
+> Listening at http://localhost:8081
+
+(node:3910) UnhandledPromiseRejectionWarning: Error: Exited with code 3
+    at ChildProcess.<anonymous> (/home/hzl/projects/tumor3/web-server/node_modules/opn/index.js:85:13)
+    at Object.onceWrapper (events.js:417:26)
+    at ChildProcess.emit (events.js:310:20)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Socket.<anonymous> (internal/child_process.js:443:11)
+    at Socket.emit (events.js:310:20)
+    at Pipe.<anonymous> (net.js:672:12)
+(node:3910) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:3910) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+
+> vue-admin@1.0.0 dev /home/hzl/projects/tumor3/web-server
+> node build/dev-server.js
+
+[HPM] Proxy created: /account  ->  http://202.38.81.87:3001
+[HPM] Proxy rewrite rule created: "^/account" ~> "/individual-center/v1/account"
+[HPM] Proxy created: /object  ->  http://202.38.81.87:3002
+[HPM] Proxy rewrite rule created: "^/object" ~> "/individual-center/v1/object"
+> Starting dev server...
+{ parser: "babylon" } is deprecated; we now treat it as { parser: "babel" }.
+Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+ DONE  Compiled successfully in 16416ms3:45:26 PM
+
+> Listening at http://localhost:8081
+
+(node:2915) UnhandledPromiseRejectionWarning: Error: Exited with code 3
+    at ChildProcess.<anonymous> (/home/hzl/projects/tumor3/web-server/node_modules/opn/index.js:85:13)
+    at Object.onceWrapper (events.js:417:26)
+    at ChildProcess.emit (events.js:310:20)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Socket.<anonymous> (internal/child_process.js:443:11)
+    at Socket.emit (events.js:310:20)
+    at Pipe.<anonymous> (net.js:672:12)
+(node:2915) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:2915) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+
+> vue-admin@1.0.0 dev /home/hzl/projects/tumor3/web-server
+> node build/dev-server.js
+
+[HPM] Proxy created: /account  ->  http://202.38.81.87:3001
+[HPM] Proxy rewrite rule created: "^/account" ~> "/individual-center/v1/account"
+[HPM] Proxy created: /object  ->  http://202.38.81.87:3002
+[HPM] Proxy rewrite rule created: "^/object" ~> "/individual-center/v1/object"
+> Starting dev server...
+{ parser: "babylon" } is deprecated; we now treat it as { parser: "babel" }.
+Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+ DONE  Compiled successfully in 18615ms11:29:10 AM
+
+> Listening at http://localhost:8080
+
+(node:25585) UnhandledPromiseRejectionWarning: Error: Exited with code 3
+    at ChildProcess.<anonymous> (/home/hzl/projects/tumor3/web-server/node_modules/opn/index.js:85:13)
+    at Object.onceWrapper (events.js:417:26)
+    at ChildProcess.emit (events.js:310:20)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Socket.<anonymous> (internal/child_process.js:443:11)
+    at Socket.emit (events.js:310:20)
+    at Pipe.<anonymous> (net.js:672:12)
+(node:25585) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:25585) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+Terminated
+npm ERR! code ELIFECYCLE
+npm ERR! errno 143
+npm ERR! vue-admin@1.0.0 dev: `node build/dev-server.js`
+npm ERR! Exit status 143
+npm ERR! 
+npm ERR! Failed at the vue-admin@1.0.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/hzl/.npm/_logs/2021-03-23T03_32_00_868Z-debug.log
+
+> vue-admin@1.0.0 dev /home/hzl/projects/tumor3/web-server
+> node build/dev-server.js
+
+[HPM] Proxy created: /account  ->  http://202.38.81.87:3001
+[HPM] Proxy rewrite rule created: "^/account" ~> "/individual-center/v1/account"
+[HPM] Proxy created: /object  ->  http://202.38.81.87:3002
+[HPM] Proxy rewrite rule created: "^/object" ~> "/individual-center/v1/object"
+> Starting dev server...
+{ parser: "babylon" } is deprecated; we now treat it as { parser: "babel" }.
+Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+ DONE  Compiled successfully in 9584ms11:32:35 AM
+
+> Listening at http://localhost:8081
+
+(node:27271) UnhandledPromiseRejectionWarning: Error: Exited with code 3
+    at ChildProcess.<anonymous> (/home/hzl/projects/tumor3/web-server/node_modules/opn/index.js:85:13)
+    at Object.onceWrapper (events.js:417:26)
+    at ChildProcess.emit (events.js:310:20)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Socket.<anonymous> (internal/child_process.js:443:11)
+    at Socket.emit (events.js:310:20)
+    at Pipe.<anonymous> (net.js:672:12)
+(node:27271) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:27271) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[HPM] Error occurred while trying to proxy request /individual-center/v1/object/file/upload from 202.38.81.87:8082 to http://202.38.81.87:3002 (EPIPE) (https://nodejs.org/api/errors.html#errors_common_system_errors)
